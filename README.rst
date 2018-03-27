@@ -1,6 +1,6 @@
 |Wercker| |license|
 
-:Version: 0.1.0
+:Version: 0.1.1
 :Web: https://github.com/luismayta/pre-commit-mypy
 :Download: http://github.com/luismayta/pre-commit-mypy
 :Source: http://github.com/luismayta/pre-commit-mypy
