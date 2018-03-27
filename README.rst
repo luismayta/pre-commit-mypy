@@ -35,6 +35,8 @@ Add this to your `.pre-commit-config.yaml`
         sha: ''  # Use the sha you want to point at
         hooks:
         -   id: mypy
+            args:
+            - --ignore-missing-imports
     
 License
 *******
