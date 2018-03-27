@@ -1,0 +1,6 @@
+-   id: mypy
+    name: mypy
+    entry: mypy
+    language: python
+    files: \.py$
+    args: []
