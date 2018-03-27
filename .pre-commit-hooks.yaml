@@ -1,7 +1,7 @@
--   id: isort
-    name: isort
-    description: "Runs isort over python source.  If you configure additional arguments you'll want to at least."
-    entry: isort
+-   id: mypy
+    name: mypy
+    description: "Runs mypy over python source.  If you configure additional arguments you'll want to at least."
+    entry: mypy
     language: python
     types: [python]
     args: []
